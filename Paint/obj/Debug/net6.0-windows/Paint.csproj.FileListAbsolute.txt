@@ -1,0 +1,17 @@
+D:\collage\Paint\Paint\bin\Debug\net6.0-windows\Paint.exe
+D:\collage\Paint\Paint\bin\Debug\net6.0-windows\Paint.deps.json
+D:\collage\Paint\Paint\bin\Debug\net6.0-windows\Paint.runtimeconfig.json
+D:\collage\Paint\Paint\bin\Debug\net6.0-windows\Paint.dll
+D:\collage\Paint\Paint\bin\Debug\net6.0-windows\Paint.pdb
+D:\collage\Paint\Paint\obj\Debug\net6.0-windows\Paint.csproj.AssemblyReference.cache
+D:\collage\Paint\Paint\obj\Debug\net6.0-windows\Paint.Form1.resources
+D:\collage\Paint\Paint\obj\Debug\net6.0-windows\Paint.csproj.GenerateResource.cache
+D:\collage\Paint\Paint\obj\Debug\net6.0-windows\Paint.GeneratedMSBuildEditorConfig.editorconfig
+D:\collage\Paint\Paint\obj\Debug\net6.0-windows\Paint.AssemblyInfoInputs.cache
+D:\collage\Paint\Paint\obj\Debug\net6.0-windows\Paint.AssemblyInfo.cs
+D:\collage\Paint\Paint\obj\Debug\net6.0-windows\Paint.csproj.CoreCompileInputs.cache
+D:\collage\Paint\Paint\obj\Debug\net6.0-windows\Paint.dll
+D:\collage\Paint\Paint\obj\Debug\net6.0-windows\refint\Paint.dll
+D:\collage\Paint\Paint\obj\Debug\net6.0-windows\Paint.pdb
+D:\collage\Paint\Paint\obj\Debug\net6.0-windows\Paint.genruntimeconfig.cache
+D:\collage\Paint\Paint\obj\Debug\net6.0-windows\ref\Paint.dll
